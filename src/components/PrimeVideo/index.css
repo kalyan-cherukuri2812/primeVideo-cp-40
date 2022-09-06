@@ -1,0 +1,16 @@
+.bg-container {
+  min-height: 100vh;
+  background-size: cover;
+  background-color: black;
+}
+.prime-img {
+  width: 100%;
+}
+.movie-category-heading {
+  color: white;
+  font-family: roboto;
+  margin-left: 50px;
+}
+.movies-card {
+  padding: 50px;
+}

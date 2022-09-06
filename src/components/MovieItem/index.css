@@ -1,0 +1,28 @@
+.movie-item-img {
+  width: 100%;
+}
+
+.movie-item-card {
+  margin: 10px;
+}
+
+.popup-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.trigger-button {
+  align-self: flex-end;
+  font-size: 25px;
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.popup-content {
+  background-color: #ffffff;
+  width: 750px;
+  height: 460px;
+  border-radius: 16px;
+}
